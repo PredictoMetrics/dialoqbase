@@ -68,7 +68,7 @@ export const AuthRegister = () => {
               <div className="focus:outline-none focus-visible:ring-2 focus-visible:ring-pink-700 flex items-center">
                 <img className="h-8 w-auto" src="/logo.png" alt="Dialoqbase" />
                 <span className="text-lg font-bold dark:text-white">
-                  Dialoqbase
+                    Predictometrics
                 </span>
                 <span className="inline-block flex-shrink-0 rounded-full bg-green-100 px-2 py-0.5 text-xs font-medium text-green-800 ml-2">
                   {/* @ts-ignore */}

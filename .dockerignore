@@ -2,3 +2,4 @@
 docker
 dev.bat
 dev.sh
+node_modules
